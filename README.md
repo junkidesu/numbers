@@ -1,0 +1,3 @@
+# natural-numbers
+
+In this Haskell program, we shall define a datatype for the natural numbers, which we shall call `MyNatural`, inspired by the Peano axioms. You can read more about the Peano axioms <a href="https://en.wikipedia.org/wiki/Peano_axioms">on the corresponding Wikipedia page</a>. In addition, we shall also define the usual arithmetic operations on the naturals (addition, multiplication, and exponentiation), as well as the ordering rules.
