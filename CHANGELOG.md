@@ -1,4 +1,4 @@
-# Changelog for `natural-numbers`
+# Changelog for `numbers`
 
 All notable changes to this project will be documented in this file.
 

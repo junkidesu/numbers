@@ -4,11 +4,11 @@ cabal-version: 2.2
 --
 -- see: https://github.com/sol/hpack
 
-name:           natural-numbers
+name:           numbers
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/junkidesu/natural-numbers#readme>
-homepage:       https://github.com/junkidesu/natural-numbers#readme
-bug-reports:    https://github.com/junkidesu/natural-numbers/issues
+description:    Please see the README on GitHub at <https://github.com/junkidesu/numbers#readme>
+homepage:       https://github.com/junkidesu/numbers#readme
+bug-reports:    https://github.com/junkidesu/numbers/issues
 author:         Anvar Sheryatullayev
 maintainer:     alvaro.sh03@gmail.com
 copyright:      2024 Anvar Sheryatullayev
@@ -21,16 +21,16 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/junkidesu/natural-numbers
+  location: https://github.com/junkidesu/numbers
 
 library
   exposed-modules:
       Data.Natural
       Data.NewInteger
   other-modules:
-      Paths_natural_numbers
+      Paths_numbers
   autogen-modules:
-      Paths_natural_numbers
+      Paths_numbers
   hs-source-dirs:
       src
   ghc-options: -Wall -Wcompat -Widentities -Wincomplete-record-updates -Wincomplete-uni-patterns -Wmissing-export-lists -Wmissing-home-modules -Wpartial-fields -Wredundant-constraints
